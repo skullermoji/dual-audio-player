@@ -8,4 +8,4 @@ Simple and slightly crunchy GUI around libmpv that
 * remembers volumes and window size
 * click video to pause/play
 
-Get libmpv-2.dll and drop it into the same folder as dual_audio_player.pyw
+Get libmpv-2.dll and drop it into the same folder as dual_audio_player.pyw, and you're off to the races (provided you've met prerequisites).
